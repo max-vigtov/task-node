@@ -1,0 +1,6 @@
+node_modules
+logfile
+.env
+keys/
+postgres
+dist
